@@ -1,0 +1,17 @@
+{
+    "mcpServers": {
+      "fetch": {
+        "command": "node",
+        "args": [
+          "C:/Users/yaowe/Desktop/Personal/code/mcp-servers/fetch-mcp/dist/index.js"
+        ]
+      },
+      "filesystem": {
+        "command": "npx",
+        "args": [
+          "@modelcontextprotocol/server-filesystem",
+          "C:/Users/yaowe/Desktop/Personal/code/CE8014/Assignment2_113922002/all_project_file"
+        ]
+      }
+    }
+  }
